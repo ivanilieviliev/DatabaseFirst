@@ -1,0 +1,47 @@
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\GitHub Projects\DatabaseFirstV1J\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb

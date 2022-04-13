@@ -1,0 +1,29 @@
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+\\VBOXSVR\Shared_Files\School (2021-2022)\Задачи\Software Development\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\GitHub Projects\DatabaseFirstV1J\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
